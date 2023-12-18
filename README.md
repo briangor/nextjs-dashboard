@@ -4,7 +4,7 @@
 For more information, see the [Next.js](https://nextjs.org) Website.
 
 
-![Alt text](image.png)
+![Dashboard App image](public/image.png)
 
 - A public home page
 - A login page
