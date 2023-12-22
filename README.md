@@ -1,9 +1,6 @@
 ## Next.js Dashboard App
 
 
-For more information, see the [Next.js](https://nextjs.org) Website.
-
-
 ![Dashboard App image](public/image.png)
 
 - A public home page
