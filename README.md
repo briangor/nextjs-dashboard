@@ -12,4 +12,4 @@
 vercel-postgres
 
 TODO:
-test other dba
+test other db
