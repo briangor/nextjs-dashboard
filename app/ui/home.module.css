@@ -5,3 +5,7 @@
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
 }
+
+.square {
+    border: 1px solid black;
+}
