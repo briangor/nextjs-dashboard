@@ -9,3 +9,7 @@
 .square {
     border: 1px solid black;
 }
+
+.circle {
+    border: 1px dashed skyblue;
+}
