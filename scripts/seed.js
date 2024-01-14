@@ -177,3 +177,5 @@ main().catch((err) => {
     err,
   );
 });
+
+// TODO: update to es6
